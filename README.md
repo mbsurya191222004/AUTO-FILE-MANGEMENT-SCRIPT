@@ -1,8 +1,8 @@
-# Auto File Management Script12311
+# Auto File Management Script1010
 
 This repository contains a Python script that automatically organizes files from an "UNSORTED" folder into designated folders based on their file extensions.
 
-## Prerequisites123
+## Prerequisites
 
 - Python 3.x installed on your system.
 - Basic knowledge of command line usage.
