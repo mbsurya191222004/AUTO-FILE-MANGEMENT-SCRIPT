@@ -2,7 +2,7 @@
 
 This repository contains a Python script that automatically organizes files from an "UNSORTED" folder into designated folders based on their file extensions.
 
-## Prerequisites
+## Prerequisites123
 
 - Python 3.x installed on your system.
 - Basic knowledge of command line usage.
@@ -17,4 +17,3 @@ The script sorts files into the following categories:
 - **Audio**: `.mp3`, `.wav`, `.flac`, `.aac`, `.ogg`, `.wma`, `.m4a`, `.alac`, `.aiff`, `.amr`, `.opus`
 - **Programs**: `.exe`, `.bat`, `.sh`, `.py`, `.js`, `.jar`, `.pl`, `.rb`, `.php`, `.cpp`, `.c`, `.cs`, `.java`, `.go`, `.swift`, `.rs`, `.out`
 - **Documents**: `.doc`, `.docx`, `.pdf`, `.txt`, `.rtf`, `.odt`, `.xls`, `.xlsx`, `.ppt`, `.pptx`, `.csv`, `.epub`, `.pages`, `.md`
-
