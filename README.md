@@ -4,7 +4,7 @@ This repository contains a Python script that automatically organizes files from
 
 ## Prerequisites
 
-- Python 3.x installed on your system.
+- Python 3.10 installed on your system.
 - Basic knowledge of command line usage.
 - Necessary folders created in your project directory.
 
